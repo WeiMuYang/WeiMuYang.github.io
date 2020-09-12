@@ -8,7 +8,7 @@
 # Site settings
 title: 杨伟彬的技术专栏
 brief-intro: Android and Python Coder
-baseurl: "https://WeiMuYang.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://643435675.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
